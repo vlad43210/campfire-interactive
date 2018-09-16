@@ -1,3 +1,4 @@
+#tutorial from: https://www.analyticsvidhya.com/blog/2018/03/text-generation-using-python-nlp/
 import os, sys
 import numpy as np
 import pandas as pd
